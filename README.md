@@ -26,7 +26,7 @@ I am a fullstack website developer who learn fast and i’d love tobuild somethi
 
 # Project on Web3
 
-## The Web 3 Project
+## The Web 3 Project (WeLaunch)
 - Build Frontend with NextJS, React
 - Use Solidity as Smart Contract
 - Use NodeJS as backend to help Solidity for the frontend
